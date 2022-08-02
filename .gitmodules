@@ -1,0 +1,3 @@
+[submodule "InsistEngine/vendor/spdlog"]
+	path = InsistEngine/vendor/spdlog
+	url = https://github.com/gabime/spdlog
